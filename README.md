@@ -5,6 +5,8 @@
 
 ![willianambrosio GitHub stats](https://github-readme-stats.vercel.app/api?username=willianambrosio&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianambrosio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -23,6 +25,5 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-</div>
-<br/>
+</div><br/>
 Apaixonado por tecnologia, educacao e por mudar a vida das pessoas através da programação.
