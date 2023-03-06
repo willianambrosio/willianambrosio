@@ -1,11 +1,15 @@
 ### Ola! Eu sou o Willian Ambrosio ✋
 
+
+Desenvolvedor apaixonado por tecnologia e soluções inovadoras, com forte motivação em aprender e crescer profissionalmente. Possuo experiência em desenvolvimento de aplicações web, e estou sempre buscando aprimorar minhas habilidades e adquirir novos conhecimentos. Além disso, sou uma pessoa proativa, trabalho bem em equipe e tenho facilidade em comunicação e resolução de problemas.
+<br/><br/>
+### Redes
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_ambrosio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-ambrosio-940b35195/)
-
+<br/>
 ![willianambrosio GitHub stats](https://github-readme-stats.vercel.app/api?username=willianambrosio&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianambrosio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ### Tecnologias que eu uso no meu dia
 
@@ -26,4 +30,4 @@
     <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia, educacao e por mudar a vida das pessoas através da programação.
+
